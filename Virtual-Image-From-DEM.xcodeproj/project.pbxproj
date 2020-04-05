@@ -41,7 +41,7 @@
 		0B9449C21FDDBA7E00F6673B = {
 			isa = PBXGroup;
 			children = (
-				0B9449CD1FDDBA7E00F6673B /* project_3_elevation */,
+				0B9449CD1FDDBA7E00F6673B /* Virtual-Image-From-DEM */,
 				0B9449CC1FDDBA7E00F6673B /* Products */,
 			);
 			sourceTree = "<group>";
@@ -54,12 +54,12 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		0B9449CD1FDDBA7E00F6673B /* project_3_elevation */ = {
+		0B9449CD1FDDBA7E00F6673B /* Virtual-Image-From-DEM */ = {
 			isa = PBXGroup;
 			children = (
 				0B9449CE1FDDBA7E00F6673B /* main.cpp */,
 			);
-			path = project_3_elevation;
+			path = "Virtual-Image-From-DEM";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
